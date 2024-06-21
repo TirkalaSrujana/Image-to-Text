@@ -8,5 +8,5 @@ Image Path: The location or filename of the image on the user's system.
 Grayscale Image: An image containing only shades of gray, often easier for OCR engines to work with.
 Extracted Text: The text that is identified and extracted from the image using OCR.
 
-Acknowledgment:
-This section of code utilizes techniques learned during the Workshop organized by the Learnings Links foundation.
+# Acknowledgment:
+This section of code utilizes techniques learned during the Workshop organized by the Learning Links Foundation.
