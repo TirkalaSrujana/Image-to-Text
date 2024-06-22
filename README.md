@@ -9,4 +9,5 @@ Grayscale Image: An image containing only shades of gray, often easier for OCR e
 Extracted Text: The text that is identified and extracted from the image using OCR.
 
 # Acknowledgment:
-This section of code utilizes techniques learned during the Workshop organized by the Learning Links Foundation.
+This section of code utilizes techniques learned during the Women and AI Workshop organized by the Learning Links Foundation.
+
